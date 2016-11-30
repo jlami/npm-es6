@@ -1,0 +1,15 @@
+{
+  "name": "npm-es6",
+  "version": "0.0.0",
+  "description": "test module for es6 exports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "es6"
+  ],
+  "author": "Joren l'Ami",
+  "license": "MIT"
+}
